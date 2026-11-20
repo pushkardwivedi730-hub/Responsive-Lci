@@ -10,10 +10,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn.lock*
 
-# Bootstraps and frameworks
-bootstrap-5.3.8-dist/
-bootstrap-5.1.3-dist/
-
 # Packages
 *.pem
 
@@ -30,8 +26,13 @@ bootstrap-5.1.3-dist/
 .Spotlight-V100
 .Temporary-Items
 .Trashes
+.Thumbs.db
+desktop.ini
 
 # App-specific
 Atom/
 bundle.js
+# Build folders
+dist/
+build/
 ```
